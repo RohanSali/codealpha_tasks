@@ -6,6 +6,6 @@ node_modules/
 *.pkl
 *.h5
 .DS_Store
-!CodeAlpha_HandwrittenCharacterRecognition\backend\app\models\label_encoder.pkl
-!CodeAlpha_HandwrittenCharacterRecognition\backend\app\models\optimized_model.pkl
-!CodeAlpha_HandwrittenCharacterRecognition\backend\app\models\pca_transformer.pkl
+!CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/label_encoder.pkl
+!CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/optimized_model.pkl
+!CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/pca_transformer.pkl
