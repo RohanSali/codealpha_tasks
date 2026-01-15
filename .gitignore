@@ -9,3 +9,5 @@ node_modules/
 !CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/label_encoder.pkl
 !CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/optimized_model.pkl
 !CodeAlpha_HandwrittenCharacterRecognition/backend/app/models/pca_transformer.pkl
+!CodeAlpha_BreastCancerPrediction/backend/app/models/best_model.pkl
+!CodeAlpha_BreastCancerPrediction/backend/app/models/scaler.pkl
